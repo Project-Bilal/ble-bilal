@@ -81,7 +81,7 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.blebilal"
+    namespace 'com.rafikee.blebilal'
     defaultConfig {
         applicationId 'com.rafikee.blebilal'
         minSdkVersion rootProject.ext.minSdkVersion
